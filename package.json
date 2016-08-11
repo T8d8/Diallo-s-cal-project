@@ -1,0 +1,18 @@
+{
+  "name": "academy-ibay",
+  "version": "1.0.0",
+  "description": "camp project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ibay",
+  "license": "ISC",
+  "repository": { C:\Users\toshiba\Diallo's cal project
+    "type": "git",
+    "url": "academy-ibay"
+  },
+  "keywords": [
+    "1234"
+  ]
+}
